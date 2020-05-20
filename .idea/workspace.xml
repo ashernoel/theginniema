@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73b6c025-ab62-4d3c-b8c5-803c6dd6d99b" name="Default Changelist" comment="added returns">
-      <change afterPath="$PROJECT_DIR$/haneulshin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kevinmao.html" afterDir="false" />
+    <list default="true" id="73b6c025-ab62-4d3c-b8c5-803c6dd6d99b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/jamiefu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rachelchao.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lucyjiao.html" beforeDir="false" afterPath="$PROJECT_DIR$/lucyjiao.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +35,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.kevinmao.html">
+  <component name="RunManager" selected="JavaScript Debug.rachelchao.html">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/theginniema/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="jamiefu.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/theginniema/jamiefu.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="kevinmao.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/theginniema/kevinmao.html" useBuiltInWebServerPort="true">
@@ -46,15 +48,16 @@
     <configuration name="lucyjiao.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/theginniema/lucyjiao.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="maggie.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/theginniema/maggie.html" useBuiltInWebServerPort="true">
+    <configuration name="rachelchao.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/theginniema/rachelchao.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.rachelchao.html" />
+        <item itemvalue="JavaScript Debug.jamiefu.html" />
         <item itemvalue="JavaScript Debug.kevinmao.html" />
         <item itemvalue="JavaScript Debug.lucyjiao.html" />
         <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.maggie.html" />
       </list>
     </recent_temporary>
   </component>
@@ -69,6 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1589860059428</updated>
       <workItem from="1589860061057" duration="6249000" />
+      <workItem from="1589955149842" duration="586000" />
     </task>
     <task id="LOCAL-00001" summary="hi">
       <created>1589860325551</created>
@@ -126,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589876569874</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added returns">
+      <created>1589955185144</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1589955185144</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,22 +145,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hi" />
-    <MESSAGE value="added returns" />
     <MESSAGE value="updated header" />
     <MESSAGE value="removed ad" />
     <MESSAGE value="removed search" />
     <MESSAGE value="addded lucy" />
-    <option name="LAST_COMMIT_MESSAGE" value="addded lucy" />
+    <MESSAGE value="added returns" />
+    <option name="LAST_COMMIT_MESSAGE" value="added returns" />
   </component>
   <component name="WindowStateProjectService">
     <state x="650" y="253" key="#Notifications" timestamp="1589874273348">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="650" y="253" key="#Notifications/0.23.1792.1097@0.23.1792.1097" timestamp="1589874273348" />
-    <state x="530" y="149" key="CommitChangelistDialog2" timestamp="1589876569628">
+    <state x="530" y="149" key="CommitChangelistDialog2" timestamp="1589955184699">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="530" y="149" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1589876569628" />
+    <state x="530" y="149" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1589955184699" />
     <state width="1087" height="334" key="GridCell.Tab.0.bottom" timestamp="1589884419969">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
@@ -218,9 +229,9 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="546" y="287" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1589875849891" />
-    <state x="596" y="395" key="git4idea.merge.GitPullDialog" timestamp="1589955157328">
+    <state x="596" y="395" key="git4idea.merge.GitPullDialog" timestamp="1589955876001">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="596" y="395" key="git4idea.merge.GitPullDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1589955157328" />
+    <state x="596" y="395" key="git4idea.merge.GitPullDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1589955876001" />
   </component>
 </project>
