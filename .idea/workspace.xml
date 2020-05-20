@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="73b6c025-ab62-4d3c-b8c5-803c6dd6d99b" name="Default Changelist" comment="added returns">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -24,7 +42,6 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -33,16 +50,35 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
-  <component name="RunManager">
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/theginniema/index.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="benji.html" type="JavascriptDebugType" uri="http://localhost:63342/theginniema/benji.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.index.html" />
-      </list>
-    </recent_temporary>
+    <configuration name="eric.html" type="JavascriptDebugType" uri="http://localhost:63342/theginniema/eric.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="hahn.html" type="JavascriptDebugType" uri="http://localhost:63342/theginniema/hahn.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" uri="http://localhost:63342/theginniema/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="iris.html" type="JavascriptDebugType" uri="http://localhost:63342/theginniema/iris.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="natalie.html" type="JavascriptDebugType" uri="http://localhost:63342/theginniema/natalie.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.natalie.html" />
+      <item itemvalue="JavaScript Debug.eric.html" />
+      <item itemvalue="JavaScript Debug.iris.html" />
+      <item itemvalue="JavaScript Debug.benji.html" />
+      <item itemvalue="JavaScript Debug.hahn.html" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -83,16 +119,68 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hi" />
     <MESSAGE value="added returns" />
     <option name="LAST_COMMIT_MESSAGE" value="added returns" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="369" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589955224774">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="369" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1589955224774" />
+    <state x="460" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027/1680.23.2560.1417@0.23.1680.1027" timestamp="1589877860857" />
+    <state x="593" y="323" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1589954214193">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="593" y="323" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.877@0.23.1440.877" timestamp="1589954214193" />
     <state x="530" y="149" key="CommitChangelistDialog2" timestamp="1589864390808">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="530" y="149" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1589864390808" />
+    <state width="1303" height="336" key="GridCell.Tab.0.bottom" timestamp="1589873609997">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1303" height="336" key="GridCell.Tab.0.bottom/0.23.1680.1027/1680.23.2560.1417@0.23.1680.1027" timestamp="1589873609997" />
+    <state width="1303" height="336" key="GridCell.Tab.0.center" timestamp="1589873609996">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1303" height="336" key="GridCell.Tab.0.center/0.23.1680.1027/1680.23.2560.1417@0.23.1680.1027" timestamp="1589873609996" />
+    <state width="1303" height="336" key="GridCell.Tab.0.left" timestamp="1589873609995">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1303" height="336" key="GridCell.Tab.0.left/0.23.1680.1027/1680.23.2560.1417@0.23.1680.1027" timestamp="1589873609995" />
+    <state width="1303" height="336" key="GridCell.Tab.0.right" timestamp="1589873609997">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1303" height="336" key="GridCell.Tab.0.right/0.23.1680.1027/1680.23.2560.1417@0.23.1680.1027" timestamp="1589873609997" />
+    <state width="1303" height="244" key="GridCell.Tab.1.bottom" timestamp="1589873609653">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1303" height="244" key="GridCell.Tab.1.bottom/0.23.1680.1027/1680.23.2560.1417@0.23.1680.1027" timestamp="1589873609653" />
+    <state width="1303" height="244" key="GridCell.Tab.1.center" timestamp="1589873609652">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1303" height="244" key="GridCell.Tab.1.center/0.23.1680.1027/1680.23.2560.1417@0.23.1680.1027" timestamp="1589873609652" />
+    <state width="1303" height="244" key="GridCell.Tab.1.left" timestamp="1589873609651">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1303" height="244" key="GridCell.Tab.1.left/0.23.1680.1027/1680.23.2560.1417@0.23.1680.1027" timestamp="1589873609651" />
+    <state width="1303" height="244" key="GridCell.Tab.1.right" timestamp="1589873609653">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1303" height="244" key="GridCell.Tab.1.right/0.23.1680.1027/1680.23.2560.1417@0.23.1680.1027" timestamp="1589873609653" />
     <state x="546" y="287" key="Vcs.Push.Dialog.v2" timestamp="1589864164706">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
@@ -101,5 +189,9 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="596" y="395" key="git4idea.merge.GitPullDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1589869261887" />
+    <state x="599" y="112" width="670" height="676" key="search.everywhere.popup" timestamp="1589955973975">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="599" y="112" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1589955973975" />
   </component>
 </project>
